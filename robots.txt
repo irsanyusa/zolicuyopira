@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zolicuyopira.b-cdn.net/sitemap.xml
